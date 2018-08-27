@@ -1,0 +1,2 @@
+# BnG-FTC
+Githubul echipei
